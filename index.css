@@ -1,0 +1,13 @@
+#car{
+    position: absolute;
+    left: 40%;
+    width:100px;
+    height:100px;
+    background-color: aqua;
+}
+#road{
+    position: relative;
+    width:400px;
+    height:420px;
+    background-color: rebeccapurple;
+}
